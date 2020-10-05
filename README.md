@@ -2,7 +2,8 @@
 
 Fullstack developer - ReactJS, Node.js, React Native, Typescript and others technologies.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-machado&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+![Diego Machado's github stats](https://github-readme-stats.vercel.app/api?username=diego-machado&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-machado&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **diego-machado/diego-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
