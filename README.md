@@ -2,6 +2,9 @@
 
 Fullstack developer
 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-machado-da-rosa-88309024/)](https://www.linkedin.com/in/diego-machado-da-rosa-88309024/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.machadodarosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.machadodarosa@gmail.com)](mailto:diego.machadodarosa@gmail.com)
+
 <!--
 **diego-machado/diego-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
