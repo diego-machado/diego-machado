@@ -1,21 +1,11 @@
 ## Diego Machado
 
-Fullstack developer
+Hello there!
+I'm a backend developer from Santa Catarina/Brazil interested in the following technologies!
+
+- 💚 Javascript | NodeJS
+- 💙 Typescript
+- 🌱 I’m currently learning Github Actions
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-machado-da-rosa-88309024/)](https://www.linkedin.com/in/diego-machado-da-rosa-88309024/) 
 [![Gmail Badge](https://img.shields.io/badge/-diego.machadodarosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.machadodarosa@gmail.com)](mailto:diego.machadodarosa@gmail.com)
-
-<!--
-**diego-machado/diego-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
