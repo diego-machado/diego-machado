@@ -1,6 +1,6 @@
 ## Diego Machado
 
-Hello there!
+Hello there! <br>
 I'm a backend developer from Santa Catarina/Brazil interested in the following technologies!
 
 - 💚 Javascript | NodeJS
